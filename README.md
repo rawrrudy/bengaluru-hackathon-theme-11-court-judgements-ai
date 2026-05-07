@@ -1,2 +1,20 @@
-# bengaluru-hackathon-theme-11-court-judgements
-This project uses a computer system to help the government make sense of court judgments. It takes the judgments. Turns them into easy to understand plans that the government can use. The system looks at the parts of the judgment like who is involved what needs to be done and when it needs to be done.
+# NitiSetuAI
+
+AI-powered legal document simplification and insight engine.
+
+## Features
+- Legal document summarization
+- AI-powered key point extraction
+- Suggested actions
+- Government dashboard
+- Review & verification system
+- Offline fallback extraction
+
+## Tech Stack
+- Streamlit
+- OpenAI API
+- pdfplumber
+- Python
+
+## Live Demo
+https://nitisetuai.streamlit.app
